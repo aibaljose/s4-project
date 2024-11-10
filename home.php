@@ -14,7 +14,7 @@ session_start()
     <title>Document</title>
     <style>
         .card {
-            width: 350px;
+            width: 380px;
             height: fit-content;
             background: rgb(255, 255, 255);
             border-radius: 20px;
@@ -65,12 +65,12 @@ session_start()
         }
 
         .primary {
-            background-color: rgb(255, 114, 109);
+            background-color: #3a47e5;
             color: white;
         }
 
         .primary:hover {
-            background-color: rgb(255, 73, 66);
+            background-color: #3a47e5;
         }
 
         .secondary {
@@ -161,13 +161,14 @@ session_start()
             <div class="mincontent">
                 <div class="card">
                     <div class="card-content">
-                        <img src="https://images.unsplash.com/photo-1722841549066-8a844d9be972?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
-                        <p class="card-heading">Delete file?</p>
-                        <p class="card-description">Lorem ipsum dolor sit amet, consectetur adi</p>
+                        <img src="https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+                        <p class="card-heading">Flume at Field Day Sydney</p>
+                        <p class="card-description">Published on August 2, 2018
+                        NIKON CORPORATION, NIKON D800E</p>
                     </div>
                     <div class="card-button-wrapper">
                        
-                        <button class="card-button primary">Delete</button>
+                        <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -177,13 +178,13 @@ session_start()
 
                 <div class="card">
                     <div class="card-content">
-                        <img src="https://images.unsplash.com/photo-1722841549066-8a844d9be972?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
-                        <p class="card-heading">Delete file?</p>
+                        <img src="https://plus.unsplash.com/premium_photo-1677870728119-52aef052d7ef?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+                        <p class="card-heading">Gaming  event</p>
                         <p class="card-description">Lorem ipsum dolor sit amet, consectetur adi</p>
                     </div>
                     <div class="card-button-wrapper">
                       
-                        <button class="card-button primary">Delete</button>
+                        <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -201,7 +202,7 @@ session_start()
                     </div>
                     <div class="card-button-wrapper">
                     
-                        <button class="card-button primary">Delete</button>
+                    <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -218,7 +219,7 @@ session_start()
                     </div>
                     <div class="card-button-wrapper">
                 
-                        <button class="card-button primary">Delete</button>
+                    <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -233,7 +234,7 @@ session_start()
                     </div>
                     <div class="card-button-wrapper">
                 
-                        <button class="card-button primary">Delete</button>
+                    <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -248,7 +249,7 @@ session_start()
                     </div>
                     <div class="card-button-wrapper">
                 
-                        <button class="card-button primary">Delete</button>
+                    <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
@@ -258,12 +259,12 @@ session_start()
                 <div class="card">
                     <div class="card-content">
                         <img src="https://images.unsplash.com/photo-1722841549066-8a844d9be972?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
-                        <p class="card-heading">Delete file?</p>
+                        <p class="card-heading">Wedding event</p>
                         <p class="card-description">Lorem ipsum dolor sit amet, consectetur adi</p>
                     </div>
                     <div class="card-button-wrapper">
                 
-                        <button class="card-button primary">Delete</button>
+                    <button class="card-button primary">Enter event</button>
                     </div>
                     <button class="exit-button">
 
